@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T10:21:25.212Z" agent="5.0 (Windows)" etag="GfONsI0seyDW4kVUBvLv" version="15.9.6" type="github"><diagram id="xt5LPLB9xVCMQ6eTVr5T" name="Page-1">5VhNc5swEP01HNvhG/vY2E57iGfa+hDnqBgF1BGIEcJAf30lIyE+YiedtJE7PcE+rdDy3kpayfJWWfOZgiLdkhhiy7XjxvLWlus6TrTgD4G0HRJGfgckFMXSSQM79BNK0JZohWJYjhwZIZihYgweSJ7DAxthgFJSj92eCB6PWoAEzoDdAeA5eo9ilnboIrA1/gWiJFUjO7ZsyYBylkCZgpjUA8jbWN6KEsK6t6xZQSzIU7x0/W7PtPaBUZiz13R4ut/eHXDwbbta+SHY3zZ5jT8EMjbWqh+GMf9/aRLKUpKQHOCNRm8oqfIYiq/a3NI+d4QUHHQ4+AMy1koxQcUIh1KWYdnKA6btXvY/GQ/C+Bgoc90MG9ettLpYRYBnKZBQSSp6gBf+W6USoAlkF/zcXiie4ZBkkMfD+1GIAUPHcRxAplrS+2k1+IsU5DfECY2I0yC2H7wPpOGWVkYY7VCmf0NQ36Sgjm9SUa3iw6DlJUW1iA8jDa9G0ciookbmqAGWHdsozd13jwBXcqTvsOTxTrnXzAqa6hQxuCvAiYCa1yfPsXiElMHmMo/z35YdPLW5q+pGmrUuFRzlkg7KBOX3x4lyZ0TtBE02BTEiCa2KAhonLYjGpLmmSfNnpN3AksHsRBOgDGH+yOOrI66vNY0x5xiuH41tTtFrl02jBWR0PrFxW15NXvv2dEEwndfLGXHGSQrDMUmB8b3GWfynk1/dTbw8+89I+k5Fkz0vBsR2ZrkhyESC5o9lcWLGZiiD1HiK84XgytYBZ2k0xR3L2HH6vU5fsutXgnI2WOwmdXVfI6pPdHHJXlrkT5SCduBWCIfy/DjeZOfx/ckd2sQ/WLzNnw84yckuYp2hPYdvSNr5aWmTxxTlyfXN8KXxGf7ciUnURHbFujKpRAmfvMapmxVJf5E6bup76S4t9e2+t/kF</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-13T23:44:12.521Z" agent="5.0 (Windows)" etag="KEj26ykIvghH2pNSg0Xx" version="17.1.2" type="github">
+  <diagram id="xt5LPLB9xVCMQ6eTVr5T" name="Page-1">
+    <mxGraphModel dx="980" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fWMLcl5QMCC46aXFxnwl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fWMLcl5QMCC46aXFxnwl-1" target="fWMLcl5QMCC46aXFxnwl-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWMLcl5QMCC46aXFxnwl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fWMLcl5QMCC46aXFxnwl-1" target="fWMLcl5QMCC46aXFxnwl-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cE-Gcoh-OOLHLLaWDFRM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWMLcl5QMCC46aXFxnwl-1" target="cE-Gcoh-OOLHLLaWDFRM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWMLcl5QMCC46aXFxnwl-1" value="Reset" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fWMLcl5QMCC46aXFxnwl-2" value="Set radiogruppe" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fWMLcl5QMCC46aXFxnwl-4" value="Bestem startilstand" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cE-Gcoh-OOLHLLaWDFRM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cE-Gcoh-OOLHLLaWDFRM-2" target="cE-Gcoh-OOLHLLaWDFRM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cE-Gcoh-OOLHLLaWDFRM-2" value="Vent på startsignal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cE-Gcoh-OOLHLLaWDFRM-4" value="&lt;div&gt;Start lyssekvens&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
