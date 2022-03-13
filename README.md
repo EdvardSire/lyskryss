@@ -1,3 +1,3 @@
 # lyskryss
 
-Flowchart og mikrobit python
+Flowchart og mikrobit-python
